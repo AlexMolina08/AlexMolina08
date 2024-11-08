@@ -29,12 +29,6 @@ Here are some ideas to get you started:
    
   
 
-### 🔭 I’m currently working on ...
-
-* <img src="https://openswad.org/logo/swad1024x1024.png" width="25" height="25">  [**UGR Swad Mobile App**](https://github.com/AlexMolina08/Swad.git)
-
-  > Android and iOS App that connects to Swad API (a web service hosted in my university and developed by https://github.com/acanas). The repository'll be hide until App launch.
-
 
 ### Projects
 
